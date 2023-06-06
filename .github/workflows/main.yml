@@ -18,6 +18,9 @@ jobs:
 
       - name: Build ladle
         run: npm run build
+        
+      - name: Build Storybook components
+        run: npm run build-storybook
 
       - name: Serve ladle
         run: npm run serve &
