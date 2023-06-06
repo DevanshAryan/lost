@@ -8,3 +8,4 @@ import { CustomProjectConfig } from 'lost-pixel';
       lostPixelProjectId: 'clijvkulu8q3kn70ei9xugtyv',
       apiKey: process.env.LOST_PIXEL_API_KEY,
     };
+
